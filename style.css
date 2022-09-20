@@ -42,7 +42,7 @@ main p {
 
 
 /* dispositivos extra pequenos (celulares em posição porta retrato, menores do que 576px) */
-@media (max-width: 576px) { 
+@media (max-width: 800px) { 
     .cabecalho nav{
         float: none;
     }
